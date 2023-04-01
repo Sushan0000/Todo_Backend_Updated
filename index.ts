@@ -60,6 +60,7 @@ const openDb = (): Pool => {
 		database: "todo_ax1o",
 		password: "2yvRrM208aQkLYRWUsJ2ux0VDauyw9Us",
 		port: 5432,
+		ssl:true
 	});
 	return pool;
 };
