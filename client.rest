@@ -9,5 +9,5 @@ Content-Type: application/json
     "description": "Test from the REST Client"
 }
 
-## DELETE TASKS
-DELETE http://localhost:3003/delete/1 HTTP/1.1
+### DELETE TASKS
+DELETE http://localhost:3003/delete/60 HTTP/1.1
